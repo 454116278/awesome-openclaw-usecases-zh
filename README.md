@@ -57,7 +57,7 @@
 
 ### OpenClaw 是什么？
 
-[OpenClaw](https://github.com/openclaw/openclaw)（前身为 ClawdBot、MoltBot）是一个开源的 **AI 智能体**平台。
+[OpenClaw](https://github.com/openclaw/openclaw)（前身为 ClawdBot、MoltBot）是一个开源的 **AI 智能体**平台。[查看官方中文教程](https://docs.openclaw.ai/zh-CN)
 
 和普通的 AI 聊天不同，OpenClaw 能够：
 
