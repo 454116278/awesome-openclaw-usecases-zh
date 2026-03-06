@@ -116,7 +116,3 @@
 - 社区技能/插件需注明来源，让读者自行判断风险
 - 不推荐未经验证的社区插件（仅有少量 star 的仓库不算验证）
 - 商业 SaaS 产品不在正文推荐
-
----
-
-**原始英文贡献指南**：[CONTRIBUTING.md](https://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/CONTRIBUTING.md)
